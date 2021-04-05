@@ -1,4 +1,2 @@
 com/kibeom/springboot/Application.java
  com.kibeom.springboot.Application
-com/kibeom/springboot/web/HelloController.java
- com.kibeom.springboot.web.HelloController
